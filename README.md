@@ -103,9 +103,8 @@ ________________________________________
 **Deliverables**
 
 1.	Power BI (.pbix) file containing the completed project.
-3.	Public URL for accessing the dashboard via a web browser.
-4.	Screenshots showcasing different dashboard features.
-5.	All the datasets used
+2.	Screenshots showcasing different dashboard features.
+3.	All the datasets used
 ________________________________________
 **Result Validation**
 
@@ -124,8 +123,7 @@ ________________________________________
 **Usage Instructions**
 1.	Clone the repository: bash Copy Edit
 2.  git clone https://github.com/Mfaizan524/zomato-insights-powerbi.git  
-3.	Open the .pbix file in Power BI Desktop.
-4.	Explore the interactive dashboard or use the provided public URL to view the report online.
+3.	Download and open the .pbix file in Power BI Desktop.
 ________________________________________
 **Connect**
 
