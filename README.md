@@ -89,7 +89,7 @@ ________________________________________
 bash
 Copy Edit
 
-git clone https://github.com/Mfaizan524/zomato-insights-powerbi.git  
+2.git clone https://github.com/Mfaizan524/zomato-insights-powerbi.git  
 3.	Open the .pbix file in Power BI Desktop.
 4.	Explore the interactive dashboard or use the provided public URL to view the report online.
 ________________________________________
