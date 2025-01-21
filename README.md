@@ -16,7 +16,7 @@ o	Rating color (denoting average ratings).
 5.	Rank restaurants by the number of cuisines served.
 6.	Access the dashboard via web browsers and mobile devices.
 ________________________________________
-****Project Steps**
+**Project Steps**
 
 **1. Data Import****
 
@@ -110,10 +110,15 @@ ________________________________________
 **Result Validation**
 
 The project is deemed successful if it meets the following:
+
 •	All files are imported and transformed as required.
+
 •	Data modeling is correct and supports reporting needs.
+
 •	All visuals, filters, and navigation menus are implemented correctly.
+
 •	Values match the expected output.
+
 •	Both web and mobile views are functional.
 ________________________________________
 **Usage Instructions**
